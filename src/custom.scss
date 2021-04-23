@@ -1,0 +1,8 @@
+//bootstrap overides
+$theme-colors: (
+  "primary": #355e9c,
+  "danger": #ed1b2e,
+);
+
+//bootstrap import
+@import "node_modules/bootstrap/scss/bootstrap";
